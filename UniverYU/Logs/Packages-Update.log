@@ -1,0 +1,28 @@
+
+=== Tue May  2 18:59:15 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.inputsystem from version 1.4.4 to 1.5.0
+  com.unity.render-pipelines.universal from version 12.1.6 to 12.1.10
+
+=== Tue May  2 18:59:16 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.8.9
+  com.unity.inputsystem@1.5.0
+  com.unity.render-pipelines.universal@12.1.10
+
+=== Wed May  3 13:30:51 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.inputsystem from version 1.5.0 to 1.5.1
+  com.unity.render-pipelines.universal from version 12.1.10 to 12.1.11
